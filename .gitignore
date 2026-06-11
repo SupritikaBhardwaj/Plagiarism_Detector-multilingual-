@@ -1,2 +1,11 @@
-# Created by pytest automatically.
-*
+__pycache__/
+.pytest_cache/
+.venv/
+node_modules/
+dist/
+coverage/
+.env
+*.pyc
+postgres_data/
+mongo_data/
+
